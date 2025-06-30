@@ -6,7 +6,7 @@
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="auto">, I'm Amitesh 
 
 ### A Coder, Developer & Learner  
-- 📖 Currently learning and working on <b>Database Management</b>
+- 📖 Currently exploring and building projects in **Data Analysis and Management**
 - ⚡ Looking forward to exploring and implementing different tech stacks
 - 😊 Would love to collaborate and work on various open-source projects
 <br />
